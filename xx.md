@@ -30,4 +30,4 @@
 psvm/main：public static void main(String[] args) {}
 sout:System.out.println();
 
-![](https://cdn.jsdelivr.net/gh/KK-0613/KK-Image/th.jpg)
+![sadsa](https://cdn.jsdelivr.net/gh/KK-0613/KK-Image/th.jpg)
